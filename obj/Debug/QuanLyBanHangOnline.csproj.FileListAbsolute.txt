@@ -1,0 +1,12 @@
+C:\Users\noqok\OneDrive\Documents\VisualStudio_src\QuanLyBanHangOnline\bin\Debug\QuanLyBanHangOnline.exe.config
+C:\Users\noqok\OneDrive\Documents\VisualStudio_src\QuanLyBanHangOnline\bin\Debug\QuanLyBanHangOnline.exe
+C:\Users\noqok\OneDrive\Documents\VisualStudio_src\QuanLyBanHangOnline\bin\Debug\QuanLyBanHangOnline.pdb
+C:\Users\noqok\OneDrive\Documents\VisualStudio_src\QuanLyBanHangOnline\obj\Debug\QuanLyBanHangOnline.csproj.AssemblyReference.cache
+C:\Users\noqok\OneDrive\Documents\VisualStudio_src\QuanLyBanHangOnline\obj\Debug\QuanLyBanHangOnline.frmAdminform.resources
+C:\Users\noqok\OneDrive\Documents\VisualStudio_src\QuanLyBanHangOnline\obj\Debug\QuanLyBanHangOnline.frmUserform.resources
+C:\Users\noqok\OneDrive\Documents\VisualStudio_src\QuanLyBanHangOnline\obj\Debug\QuanLyBanHangOnline.frmLogin.resources
+C:\Users\noqok\OneDrive\Documents\VisualStudio_src\QuanLyBanHangOnline\obj\Debug\QuanLyBanHangOnline.Properties.Resources.resources
+C:\Users\noqok\OneDrive\Documents\VisualStudio_src\QuanLyBanHangOnline\obj\Debug\QuanLyBanHangOnline.csproj.GenerateResource.cache
+C:\Users\noqok\OneDrive\Documents\VisualStudio_src\QuanLyBanHangOnline\obj\Debug\QuanLyBanHangOnline.csproj.CoreCompileInputs.cache
+C:\Users\noqok\OneDrive\Documents\VisualStudio_src\QuanLyBanHangOnline\obj\Debug\QuanLyBanHangOnline.exe
+C:\Users\noqok\OneDrive\Documents\VisualStudio_src\QuanLyBanHangOnline\obj\Debug\QuanLyBanHangOnline.pdb
