@@ -8,7 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+    
 namespace QuanLyBanHangOnline
 {
     public partial class frmLogin : Form
@@ -56,6 +56,7 @@ namespace QuanLyBanHangOnline
                     {
                         frmUserform userForm = new frmUserform();
                         userForm.Show();
+                        //noqok da them vao day
                     }
                 }
                 else

@@ -101,6 +101,7 @@
             this.Controls.Add(this.btnThem);
             this.Controls.Add(this.dataGridView1);
             this.Name = "frmUserform";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form2";
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
